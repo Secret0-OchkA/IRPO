@@ -1,0 +1,15 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Welcome</h1>
+    <form method="post">
+        <input type="number" name="a" required/>
+        <input type="text" name="op" required/>
+        <input type="number" name="b" required/>
+        <input type="submit" />
+    </form>
+
+    <div>@ViewBag.result</div>
+</div>

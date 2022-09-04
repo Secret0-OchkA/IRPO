@@ -1,0 +1,17 @@
+version: '3.4'
+
+services:
+  calculator.web:
+    image: ${DOCKER_REGISTRY-}calculatorweb
+    build:
+      context: .
+      dockerfile: Calculator.Web/Dockerfile
+    depends_on: 
+      - calculator.api
+
+  calculator.api:
+    image: ${DOCKER_REGISTRY-}calculatorapi
+    build:
+      context: .
+      dockerfile: Calculator.Api/Dockerfile
+
