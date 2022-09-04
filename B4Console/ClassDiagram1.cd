@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="B4.HotDrink">
+    <Position X="4.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAgAAAQIAAAAAAAAAAAAAAAAAAABgAAAAAAAAAAIA=</HashCode>
+      <FileName>HotDrink.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="B4.CupOfCoffee">
+    <Position X="4.25" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAABAQAAAQAAAQAIAAAACAAAAQBgAAAIAAAACAAA=</HashCode>
+      <FileName>CupOfCoffee.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="B4.CupOfTea">
+    <Position X="6" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAQAAAAAAAQAIAAAACAAAAQBgAAAIQAAACAAA=</HashCode>
+      <FileName>CupOfCoffee.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Interface Name="B4.ICup">
+    <Position X="7" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAQAAAAAACAAAAQAAAAAIAAAAAAAA=</HashCode>
+      <FileName>ICup.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
