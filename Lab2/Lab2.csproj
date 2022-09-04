@@ -1,0 +1,23 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <GeneratePackageOnBuild>True</GeneratePackageOnBuild>
+    <PackageId>$(AssemblyName).Calculator</PackageId>
+    <Authors>Secretochka</Authors>
+    <Company>$(Authors).inc</Company>
+    <PackageIcon>mute-off.png</PackageIcon>
+    <Copyright>MIT</Copyright>
+    <Description>Calculator</Description>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Include="C:\Users\Secretocka\Pictures\Saved Pictures\mute-off.png">
+      <Pack>True</Pack>
+      <PackagePath>\</PackagePath>
+    </None>
+  </ItemGroup>
+
+</Project>
