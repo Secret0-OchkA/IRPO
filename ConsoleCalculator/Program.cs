@@ -1,5 +1,4 @@
-﻿
-using Lab2;
+﻿using Lab2;
 
 Calculator calculator = new Calculator();
 
