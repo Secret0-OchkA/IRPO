@@ -1,0 +1,16 @@
+D:\CodeProjects\WPF\Lab5\Lab5\bin\Debug\Lab5.exe.config
+D:\CodeProjects\WPF\Lab5\Lab5\bin\Debug\Lab5.exe
+D:\CodeProjects\WPF\Lab5\Lab5\bin\Debug\Lab5.pdb
+D:\CodeProjects\WPF\Lab5\Lab5\obj\Debug\Lab5.csproj.AssemblyReference.cache
+D:\CodeProjects\WPF\Lab5\Lab5\obj\Debug\Lab5.csproj.SuggestedBindingRedirects.cache
+D:\CodeProjects\WPF\Lab5\Lab5\obj\Debug\MainWindow.g.cs
+D:\CodeProjects\WPF\Lab5\Lab5\obj\Debug\App.g.cs
+D:\CodeProjects\WPF\Lab5\Lab5\obj\Debug\Lab5_MarkupCompile.cache
+D:\CodeProjects\WPF\Lab5\Lab5\obj\Debug\Lab5_MarkupCompile.lref
+D:\CodeProjects\WPF\Lab5\Lab5\obj\Debug\MainWindow.baml
+D:\CodeProjects\WPF\Lab5\Lab5\obj\Debug\Lab5.g.resources
+D:\CodeProjects\WPF\Lab5\Lab5\obj\Debug\Lab5.Properties.Resources.resources
+D:\CodeProjects\WPF\Lab5\Lab5\obj\Debug\Lab5.csproj.GenerateResource.cache
+D:\CodeProjects\WPF\Lab5\Lab5\obj\Debug\Lab5.csproj.CoreCompileInputs.cache
+D:\CodeProjects\WPF\Lab5\Lab5\obj\Debug\Lab5.exe
+D:\CodeProjects\WPF\Lab5\Lab5\obj\Debug\Lab5.pdb
