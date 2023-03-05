@@ -1,0 +1,39 @@
+﻿<Window x:Class="Lab16.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Lab16"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="0.06*"/>
+            <RowDefinition Height="0.2*"/>
+            <RowDefinition/>
+        </Grid.RowDefinitions>
+        <StackPanel Orientation="Horizontal">
+            <Label Padding="0">(</Label>
+            <TextBox x:Name="TextBoxA">1</TextBox>
+            <Label Padding="0">)x^2 + (</Label>
+            <TextBox x:Name="TextBoxB">1</TextBox>
+            <Label Padding="0">)x + (</Label>
+            <TextBox x:Name="TextBoxC">1</TextBox>
+            <Label Padding="0">) = 0</Label>
+        </StackPanel>
+
+        <StackPanel Grid.Row="1">
+            <StackPanel Orientation="Horizontal">
+                <Label>X1 =</Label>
+                <TextBlock x:Name="Solve1"/>
+            </StackPanel>
+            <StackPanel Orientation="Horizontal">
+                <Label>X1 =</Label>
+                <TextBlock x:Name="Solve2"/>
+            </StackPanel>
+        </StackPanel>
+
+        
+        <Button x:Name="BtnSolve" Grid.Row="2" Click="BtnSolve_Click">Solve</Button>
+    </Grid>
+</Window>

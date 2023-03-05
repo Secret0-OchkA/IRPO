@@ -1,0 +1,12 @@
+D:\code_projects\IRPO\Lab16\QuadraticSolver\bin\Debug\net7.0\QuadraticSolverLib.deps.json
+D:\code_projects\IRPO\Lab16\QuadraticSolver\bin\Debug\net7.0\QuadraticSolverLib.dll
+D:\code_projects\IRPO\Lab16\QuadraticSolver\bin\Debug\net7.0\QuadraticSolverLib.pdb
+D:\code_projects\IRPO\Lab16\QuadraticSolver\obj\Debug\net7.0\QuadraticSolverLib.csproj.AssemblyReference.cache
+D:\code_projects\IRPO\Lab16\QuadraticSolver\obj\Debug\net7.0\QuadraticSolverLib.GeneratedMSBuildEditorConfig.editorconfig
+D:\code_projects\IRPO\Lab16\QuadraticSolver\obj\Debug\net7.0\QuadraticSolverLib.AssemblyInfoInputs.cache
+D:\code_projects\IRPO\Lab16\QuadraticSolver\obj\Debug\net7.0\QuadraticSolverLib.AssemblyInfo.cs
+D:\code_projects\IRPO\Lab16\QuadraticSolver\obj\Debug\net7.0\QuadraticSolverLib.csproj.CoreCompileInputs.cache
+D:\code_projects\IRPO\Lab16\QuadraticSolver\obj\Debug\net7.0\QuadraticSolverLib.dll
+D:\code_projects\IRPO\Lab16\QuadraticSolver\obj\Debug\net7.0\refint\QuadraticSolverLib.dll
+D:\code_projects\IRPO\Lab16\QuadraticSolver\obj\Debug\net7.0\QuadraticSolverLib.pdb
+D:\code_projects\IRPO\Lab16\QuadraticSolver\obj\Debug\net7.0\ref\QuadraticSolverLib.dll
