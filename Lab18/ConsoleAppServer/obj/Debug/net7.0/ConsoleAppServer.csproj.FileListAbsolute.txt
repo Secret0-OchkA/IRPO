@@ -1,0 +1,15 @@
+D:\code_projects\IRPO\Lab18\ConsoleAppServer\bin\Debug\net7.0\ConsoleAppServer.exe
+D:\code_projects\IRPO\Lab18\ConsoleAppServer\bin\Debug\net7.0\ConsoleAppServer.deps.json
+D:\code_projects\IRPO\Lab18\ConsoleAppServer\bin\Debug\net7.0\ConsoleAppServer.runtimeconfig.json
+D:\code_projects\IRPO\Lab18\ConsoleAppServer\bin\Debug\net7.0\ConsoleAppServer.dll
+D:\code_projects\IRPO\Lab18\ConsoleAppServer\bin\Debug\net7.0\ConsoleAppServer.pdb
+D:\code_projects\IRPO\Lab18\ConsoleAppServer\obj\Debug\net7.0\ConsoleAppServer.csproj.AssemblyReference.cache
+D:\code_projects\IRPO\Lab18\ConsoleAppServer\obj\Debug\net7.0\ConsoleAppServer.GeneratedMSBuildEditorConfig.editorconfig
+D:\code_projects\IRPO\Lab18\ConsoleAppServer\obj\Debug\net7.0\ConsoleAppServer.AssemblyInfoInputs.cache
+D:\code_projects\IRPO\Lab18\ConsoleAppServer\obj\Debug\net7.0\ConsoleAppServer.AssemblyInfo.cs
+D:\code_projects\IRPO\Lab18\ConsoleAppServer\obj\Debug\net7.0\ConsoleAppServer.csproj.CoreCompileInputs.cache
+D:\code_projects\IRPO\Lab18\ConsoleAppServer\obj\Debug\net7.0\ConsoleAppServer.dll
+D:\code_projects\IRPO\Lab18\ConsoleAppServer\obj\Debug\net7.0\refint\ConsoleAppServer.dll
+D:\code_projects\IRPO\Lab18\ConsoleAppServer\obj\Debug\net7.0\ConsoleAppServer.pdb
+D:\code_projects\IRPO\Lab18\ConsoleAppServer\obj\Debug\net7.0\ConsoleAppServer.genruntimeconfig.cache
+D:\code_projects\IRPO\Lab18\ConsoleAppServer\obj\Debug\net7.0\ref\ConsoleAppServer.dll
