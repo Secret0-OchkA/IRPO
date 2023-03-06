@@ -1,0 +1,12 @@
+D:\CodeProjects\IRPO\Lab18\ClientLib\bin\Debug\net7.0\ClientLib.deps.json
+D:\CodeProjects\IRPO\Lab18\ClientLib\bin\Debug\net7.0\ClientLib.dll
+D:\CodeProjects\IRPO\Lab18\ClientLib\bin\Debug\net7.0\ClientLib.pdb
+D:\CodeProjects\IRPO\Lab18\ClientLib\obj\Debug\net7.0\ClientLib.csproj.AssemblyReference.cache
+D:\CodeProjects\IRPO\Lab18\ClientLib\obj\Debug\net7.0\ClientLib.GeneratedMSBuildEditorConfig.editorconfig
+D:\CodeProjects\IRPO\Lab18\ClientLib\obj\Debug\net7.0\ClientLib.AssemblyInfoInputs.cache
+D:\CodeProjects\IRPO\Lab18\ClientLib\obj\Debug\net7.0\ClientLib.AssemblyInfo.cs
+D:\CodeProjects\IRPO\Lab18\ClientLib\obj\Debug\net7.0\ClientLib.csproj.CoreCompileInputs.cache
+D:\CodeProjects\IRPO\Lab18\ClientLib\obj\Debug\net7.0\ClientLib.dll
+D:\CodeProjects\IRPO\Lab18\ClientLib\obj\Debug\net7.0\refint\ClientLib.dll
+D:\CodeProjects\IRPO\Lab18\ClientLib\obj\Debug\net7.0\ClientLib.pdb
+D:\CodeProjects\IRPO\Lab18\ClientLib\obj\Debug\net7.0\ref\ClientLib.dll

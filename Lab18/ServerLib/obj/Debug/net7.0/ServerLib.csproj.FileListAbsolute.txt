@@ -1,0 +1,12 @@
+D:\CodeProjects\IRPO\Lab18\ServerLib\bin\Debug\net7.0\ServerLib.deps.json
+D:\CodeProjects\IRPO\Lab18\ServerLib\bin\Debug\net7.0\ServerLib.dll
+D:\CodeProjects\IRPO\Lab18\ServerLib\bin\Debug\net7.0\ServerLib.pdb
+D:\CodeProjects\IRPO\Lab18\ServerLib\obj\Debug\net7.0\ServerLib.csproj.AssemblyReference.cache
+D:\CodeProjects\IRPO\Lab18\ServerLib\obj\Debug\net7.0\ServerLib.GeneratedMSBuildEditorConfig.editorconfig
+D:\CodeProjects\IRPO\Lab18\ServerLib\obj\Debug\net7.0\ServerLib.AssemblyInfoInputs.cache
+D:\CodeProjects\IRPO\Lab18\ServerLib\obj\Debug\net7.0\ServerLib.AssemblyInfo.cs
+D:\CodeProjects\IRPO\Lab18\ServerLib\obj\Debug\net7.0\ServerLib.csproj.CoreCompileInputs.cache
+D:\CodeProjects\IRPO\Lab18\ServerLib\obj\Debug\net7.0\ServerLib.dll
+D:\CodeProjects\IRPO\Lab18\ServerLib\obj\Debug\net7.0\refint\ServerLib.dll
+D:\CodeProjects\IRPO\Lab18\ServerLib\obj\Debug\net7.0\ServerLib.pdb
+D:\CodeProjects\IRPO\Lab18\ServerLib\obj\Debug\net7.0\ref\ServerLib.dll

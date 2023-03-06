@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\code_projects\\IRPO\\Lab18\\ConsoleAppServer\\ConsoleAppServer.csproj": {}
+    "D:\\CodeProjects\\IRPO\\Lab18\\ConsoleAppServer\\ConsoleAppServer.csproj": {}
   },
   "projects": {
-    "D:\\code_projects\\IRPO\\Lab18\\ConsoleAppServer\\ConsoleAppServer.csproj": {
+    "D:\\CodeProjects\\IRPO\\Lab18\\ConsoleAppServer\\ConsoleAppServer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\code_projects\\IRPO\\Lab18\\ConsoleAppServer\\ConsoleAppServer.csproj",
+        "projectUniqueName": "D:\\CodeProjects\\IRPO\\Lab18\\ConsoleAppServer\\ConsoleAppServer.csproj",
         "projectName": "ConsoleAppServer",
-        "projectPath": "D:\\code_projects\\IRPO\\Lab18\\ConsoleAppServer\\ConsoleAppServer.csproj",
+        "projectPath": "D:\\CodeProjects\\IRPO\\Lab18\\ConsoleAppServer\\ConsoleAppServer.csproj",
         "packagesPath": "C:\\Users\\Secretochka\\.nuget\\packages\\",
-        "outputPath": "D:\\code_projects\\IRPO\\Lab18\\ConsoleAppServer\\obj\\",
+        "outputPath": "D:\\CodeProjects\\IRPO\\Lab18\\ConsoleAppServer\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Secretochka\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -22,6 +22,67 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Users\\Secretochka\\.nuget\\packages": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "D:\\CodeProjects\\IRPO\\Lab18\\ServerLib\\ServerLib.csproj": {
+                "projectPath": "D:\\CodeProjects\\IRPO\\Lab18\\ServerLib\\ServerLib.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.200\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\CodeProjects\\IRPO\\Lab18\\ServerLib\\ServerLib.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\CodeProjects\\IRPO\\Lab18\\ServerLib\\ServerLib.csproj",
+        "projectName": "ServerLib",
+        "projectPath": "D:\\CodeProjects\\IRPO\\Lab18\\ServerLib\\ServerLib.csproj",
+        "packagesPath": "C:\\Users\\Secretochka\\.nuget\\packages\\",
+        "outputPath": "D:\\CodeProjects\\IRPO\\Lab18\\ServerLib\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Secretochka\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Users\\Secretochka\\.nuget\\packages": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -55,7 +116,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.201\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.200\\RuntimeIdentifierGraph.json"
         }
       }
     }

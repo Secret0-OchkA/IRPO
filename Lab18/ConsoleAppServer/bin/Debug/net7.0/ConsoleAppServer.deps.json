@@ -7,14 +7,27 @@
   "targets": {
     ".NETCoreApp,Version=v7.0": {
       "ConsoleAppServer/1.0.0": {
+        "dependencies": {
+          "ServerLib": "1.0.0"
+        },
         "runtime": {
           "ConsoleAppServer.dll": {}
+        }
+      },
+      "ServerLib/1.0.0": {
+        "runtime": {
+          "ServerLib.dll": {}
         }
       }
     }
   },
   "libraries": {
     "ConsoleAppServer/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ServerLib/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

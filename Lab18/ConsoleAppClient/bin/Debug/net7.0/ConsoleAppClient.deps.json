@@ -7,14 +7,27 @@
   "targets": {
     ".NETCoreApp,Version=v7.0": {
       "ConsoleAppClient/1.0.0": {
+        "dependencies": {
+          "ClientLib": "1.0.0"
+        },
         "runtime": {
           "ConsoleAppClient.dll": {}
+        }
+      },
+      "ClientLib/1.0.0": {
+        "runtime": {
+          "ClientLib.dll": {}
         }
       }
     }
   },
   "libraries": {
     "ConsoleAppClient/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ClientLib/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

@@ -1,11 +1,30 @@
 {
   "version": 3,
   "targets": {
-    "net7.0": {}
+    "net7.0": {
+      "ClientLib/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "compile": {
+          "bin/placeholder/ClientLib.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ClientLib.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "ClientLib/1.0.0": {
+      "type": "project",
+      "path": "../ClientLib/ClientLib.csproj",
+      "msbuildProject": "../ClientLib/ClientLib.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    "net7.0": []
+    "net7.0": [
+      "ClientLib >= 1.0.0"
+    ]
   },
   "packageFolders": {
     "C:\\Users\\Secretochka\\.nuget\\packages\\": {}
@@ -13,11 +32,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\code_projects\\IRPO\\Lab18\\ConsoleAppClient\\ConsoleAppClient.csproj",
+      "projectUniqueName": "D:\\CodeProjects\\IRPO\\Lab18\\ConsoleAppClient\\ConsoleAppClient.csproj",
       "projectName": "ConsoleAppClient",
-      "projectPath": "D:\\code_projects\\IRPO\\Lab18\\ConsoleAppClient\\ConsoleAppClient.csproj",
+      "projectPath": "D:\\CodeProjects\\IRPO\\Lab18\\ConsoleAppClient\\ConsoleAppClient.csproj",
       "packagesPath": "C:\\Users\\Secretochka\\.nuget\\packages\\",
-      "outputPath": "D:\\code_projects\\IRPO\\Lab18\\ConsoleAppClient\\obj\\",
+      "outputPath": "D:\\CodeProjects\\IRPO\\Lab18\\ConsoleAppClient\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Secretochka\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,12 +47,17 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Users\\Secretochka\\.nuget\\packages": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "net7.0": {
           "targetAlias": "net7.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "D:\\CodeProjects\\IRPO\\Lab18\\ClientLib\\ClientLib.csproj": {
+              "projectPath": "D:\\CodeProjects\\IRPO\\Lab18\\ClientLib\\ClientLib.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
@@ -61,7 +85,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.201\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.200\\RuntimeIdentifierGraph.json"
       }
     }
   }

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "p/mbbYF/ubf/KRO7QzW5czleMUsxpEfaD5e1XDLUWmO6DTTJarTzrAr22K1wxELsepQoZA/n3P+ETB9ubUZW2w==",
+  "dgSpecHash": "VXLNrpuKNr2W6VgKQ0hdTwYQ3vivORfZrHBOP+g7qBxzVWtqxKpyya5p7XCENTD+80zm1qRbhcSjX792MizNzg==",
   "success": true,
-  "projectFilePath": "D:\\code_projects\\IRPO\\Lab18\\ConsoleAppServer\\ConsoleAppServer.csproj",
+  "projectFilePath": "D:\\CodeProjects\\IRPO\\Lab18\\ConsoleAppServer\\ConsoleAppServer.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
